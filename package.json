@@ -1,0 +1,12 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Martin Sorensen",
+  "license": "ISC"
+}
